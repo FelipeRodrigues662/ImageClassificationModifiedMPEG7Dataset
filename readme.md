@@ -16,11 +16,11 @@ To begin, clone the repository to your local machine using the following command
 ### 2. Install Required Libraries
 Ensure Python is installed on your system. Install the necessary libraries using the following command:
 
-    pip install -r requirements.txt
+    pip install numpy pandas opencv-python matplotlib seaborn scikit-learn openpyxl xlsxwriter joblib
 
 ---
 
-The `requirements.txt` file includes the following dependencies:
+Dependencies:
 - `opencv-python`
 - `numpy`
 - `pandas`

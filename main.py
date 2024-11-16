@@ -6,14 +6,14 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import classification_report, confusion_matrix
+from sklearn.metrics import classification_report
 from sklearn.model_selection import GridSearchCV
 import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
 from sklearn.neural_network import MLPClassifier
 
 # Caminho dos dados
-dataset_path = ".\\mpeg7_mod"  # Ajuste o caminho conforme o sistema
+dataset_path = ".\\mpeg7_mod"  
 output_path = ".\\mpeg7_mod_segmented"
 
 if not os.path.exists(output_path):
