@@ -69,3 +69,7 @@ This project demonstrates an effective pipeline for classifying images from a se
 Future improvements could include exploring additional classifiers, incorporating deep learning techniques, or expanding feature engineering. The current implementation serves as a strong foundation for similar image classification tasks.
 
 Graphs and detailed metrics are saved in the project outputs for in-depth evaluation.
+
+## Report
+ Open the file in PDF (on repository) to see the complete report.
+ > File Name: "RelatórioVC__7633_7610_6335_.pdf"
